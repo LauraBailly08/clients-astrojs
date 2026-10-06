@@ -1,0 +1,5 @@
+node_modules/
+.astro/
+dist/
+.env
+data/clients.dbbun install
